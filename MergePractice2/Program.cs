@@ -12,6 +12,7 @@ namespace MergePractice2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello, my name is Pete");
+            Console.WriteLine("This is lorem ipsum below my name.");
         }
     }
 }
